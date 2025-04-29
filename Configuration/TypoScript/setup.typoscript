@@ -1,0 +1,12 @@
+lib.contentElement {
+  templateRootPaths {
+    500 = EXT:ce_typoscript/Resources/Private/Templates
+  }
+}
+
+tt_content {
+    ce_typoscript < lib.contentElement
+    ce_typoscript {
+        templateName = CeTyposcript
+    }
+}

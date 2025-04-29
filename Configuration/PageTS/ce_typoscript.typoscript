@@ -1,0 +1,13 @@
+mod.wizards.newContentElement.wizardItems.common {
+   elements {
+      ce_typoscript {
+         iconIdentifier = ce-icon-ce-typoscript
+         title = LLL:EXT:ce_typoscript/Resources/Private/Language/locallang.xlf:wizard.ce_typoscript.title
+         description = LLL:EXT:ce_typoscript/Resources/Private/Language/locallang.xlf:wizard.ce_typoscript.description
+         tt_content_defValues {
+            CType = ce_typoscript
+         }
+      }
+   }
+   show := addToList(ce_typoscript)
+}

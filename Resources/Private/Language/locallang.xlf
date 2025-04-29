@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2018-11-23T08:00:00Z" product-name="ce_typoscript">
+        <header/>
+        <body>
+            <trans-unit id="wizard.ce_typoscript.title" xml:space="preserve">
+              <source>Typoscript object</source>
+            </trans-unit>
+            <trans-unit id="wizard.ce_typoscript.description" xml:space="preserve">
+              <source>Typoscript object path to render as content element.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
